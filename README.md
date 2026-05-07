@@ -4,6 +4,8 @@
 
 Сервис работает в production. Идёт закрытое тестирование с реальными пользователями — учениками карьерного курса [Hello New Job!](https://helloNewJob.ru).
 
+**[→ Открыть сервис](https://resume-roaster-production.up.railway.app)**
+
 ---
 
 ## Проблема
